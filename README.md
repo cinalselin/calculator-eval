@@ -15,6 +15,4 @@ Users should be able to:
 
 ### Demo
 
-- Demo Site URL: [https://cinalselin.github.io/calculator-eval/]
-
-# calculator-eval
+- https://cinalselin.github.io/calculator-eval/
