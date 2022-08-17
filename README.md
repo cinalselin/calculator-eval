@@ -13,8 +13,8 @@ Users should be able to:
 
 ![](./assets/images/calculator_ss.png)
 
-### Links
+### Demo
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Demo Site URL: [https://cinalselin.github.io/calculator-eval/]
+
 # calculator-eval
